@@ -1,0 +1,124 @@
+
+		nav ul li{
+			display: inline-block;
+			padding-right: 100px;
+
+		}
+		nav{
+
+			background-color: black;
+			border-width:100%;
+
+
+
+		}
+			body{
+					text-align: center;
+					background: url("http://fondosdedj.com/wp-content/uploads/images/71/daft-punk-0.jpg");
+					background-size:cover;
+					background-attachment: fixed;
+
+			}
+
+			h1{
+
+					font-size: 20px;
+					font-family: helvetica;
+					color:white;
+					text-shadow:2px 2px #000000;
+			
+			}
+
+			.seven{
+				position: relative;
+				top:70%;
+				left:0%;
+			}
+
+			img{
+
+				position: center;
+			}
+
+
+			p{
+
+				text-align: center;
+				color:white;
+				font-size:20px;
+				text-shadow:2px 2px #000000;
+				
+			}
+
+
+			h2{
+
+				color:white;
+				font-size: 20px;
+				text-shadow:2px 2px #000000;
+			}
+
+			button{
+					padding: 10px;
+					background-color: black;
+					 border: 0px solid #666; 
+					 font-size: 20px;
+
+			}
+
+#circle{
+
+	border-radius: 50% 50% 50% 50%;
+	width:200px;
+	height:200px;
+
+}
+
+a:link {
+	color: #886A08;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #996600;
+}
+
+a:hover{
+
+	color:#FAFAFA;
+}
+
+input{
+
+	border: 0;
+	padding: 10px;
+	font-size: 18px;
+}
+
+input[type="submit"]{
+	background: green;
+	color: white;
+}
+@media screen and (max-width: 400px){
+
+nav ul li{
+			display: inline-block;
+			padding-right: 15px;
+			position: relative;
+
+		}
+
+}
+@media screen and (max-width: 578px){
+
+nav ul li{
+			display: inline-block;
+			padding-right: 15px;
+			position: relative;
+
+		}
+
+}
+
+
+	

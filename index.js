@@ -1,0 +1,3 @@
+$(function() {
+    $( ".pic" ).draggable();
+  });
